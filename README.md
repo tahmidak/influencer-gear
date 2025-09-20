@@ -49,8 +49,9 @@ influencer-gear/
 
 ## 📸 Preview
 
-[preview](Design/influencer-gears.png)
+![preview](Design/influencer-gears.png)
 
 ---
 # influencer-gear
+
 
